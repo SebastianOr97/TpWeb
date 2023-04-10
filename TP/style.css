@@ -1,0 +1,24 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    margin: 0;
+}
+menu{
+    background-color:gainsboro;
+}
+header{
+    background-color: blue;
+    color: aqua;
+}
+
+h1{
+    text-align: center;
+    background-color: gainsboro;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: red;
+    
+    
+}
